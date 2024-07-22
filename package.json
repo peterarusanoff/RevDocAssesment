@@ -1,0 +1,19 @@
+{
+  "name": "technicalassessment",
+  "version": "1.0.0",
+  "description": "As an engineering candidate you have been pointed here as part of the interview process.",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./play.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.0.3",
+    "typescript": "^5.5.3"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
